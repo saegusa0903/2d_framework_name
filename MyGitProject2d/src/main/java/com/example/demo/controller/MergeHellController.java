@@ -12,7 +12,7 @@ public class MergeHellController {
 	static void kadaiA() {
 
 
-		for(int i = 0; i <= 10; i++) {
+		for(int i = 0; i < 10; i++) {
 				System.out.println("現在"+ i + "回目のループです。");	}
 
 		}
