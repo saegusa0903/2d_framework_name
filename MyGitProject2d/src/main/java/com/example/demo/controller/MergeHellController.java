@@ -24,7 +24,7 @@ public class MergeHellController {
 		static void kadaiB() {
 	//ここに課題を書く。メソッド名変えてね
 			Random rnd = new Random();
-			System.out.println(rnd.nextInt(99)+1);
+			System.out.println(rnd.nextInt(99)+1+"が出ました。");
 		}
 }
 
